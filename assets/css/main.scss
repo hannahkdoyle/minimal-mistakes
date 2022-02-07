@@ -11,7 +11,7 @@ $footer-background-color: #EC24EC;
 $masthead-link-color-hover: #FCE100;
 $link-color: #EC24EC;
 $link-color-hover: #FCE100;
-$link-color-visited: $FCE100;
+$link-color-visited: #FCE100;
 
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
