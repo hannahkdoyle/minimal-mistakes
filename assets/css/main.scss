@@ -4,11 +4,15 @@
 
 @charset "utf-8";
 
-$body-color: #FFFF8B;
-$background-color: yellow;
-$text-color: #EC24EC;
+$background-color: #fff;
+$text-color: #1300FC;
 $masthead-link-color: #1300FC;
+$footer-background-color: #EC24EC;
+$masthead-link-color-hover: #FCE100;
+$link-color: #EC24EC;
+$link-color-hover: #FCE100;
+$link-color-visited: $link-color;
+
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
