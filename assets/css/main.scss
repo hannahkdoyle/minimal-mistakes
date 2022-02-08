@@ -6,12 +6,12 @@
 
 $background-color: #fff;
 $text-color: #1300FC;
-$masthead-link-color: #EC24EC;
+$masthead-link-color: #FFDC00;
 $footer-background-color: #EC24EC;
-$masthead-link-color-hover: #FCE100;
+$masthead-link-color-hover: #EC24EC;
 $link-color: #EC24EC;
-$link-color-hover: #FCE100;
-$link-color-visited: #FCE100;
+$link-color-hover: #FFDC00;
+$link-color-visited: #FFDC00;
 
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
